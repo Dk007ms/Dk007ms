@@ -4,4 +4,4 @@
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Others:** Git, RESTful APIs, UI/UX Design
+- **Others:** Git, RESTful APIs

@@ -8,12 +8,13 @@
 
 - **Backend:** 
   ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/50px-Node.js_logo.svg.png)
-  ![Express.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png/50px-Expressjs.png)
+  ![Express.js Logo](https://cdn.worldvectorlogo.com/logos/express-109.svg)
 
 - **Database:** 
   ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/50px-MongoDB-Logo.svg.png)
 
 - **Others:** 
   ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/50px-Git-logo.svg.png)
-  ![RESTful API Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HubSpot_REST_API_Logo.png/50px-HubSpot_REST_API_Logo.png)
-  ![UI/UX Design](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Adobe_XD_CC_icon.svg/50px-Adobe_XD_CC_icon.svg.png)
+  ![UI/UX Design](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Adobe_XD_CC_icon.png/50px-Adobe_XD_CC_icon.png)
+
+For RESTful API logo, unfortunately, there isn't a specific widely recognized logo. If you have a preferred alternative or specific logo in mind, please provide it and I'll update accordingly.
